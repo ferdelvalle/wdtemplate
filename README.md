@@ -22,4 +22,3 @@ The idea is to hit the ground running with a healthy git-flow already set up.
 ## Contact
 
 + Fernando Del Valle - [@fer_dv_](https://twitter.com/@fer_dv_) - ferdelvalle@me.com
-
